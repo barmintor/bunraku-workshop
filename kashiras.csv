@@ -1,0 +1,130 @@
+﻿id,name,name_kanji,category,sortable_field_japanese
+1,Amanjaku,あまんじゃく,Special,あまんじゃく
+2,Ebisu,恵比須,Special,えびす
+3,Ōshūto,大舅,Male,おおしゅうと
+4,Ōdanshichi,大団七,Male,おおだんしち
+5,Ochō no kodomo,お蝶の子供,Children,おちょうのこども
+6,Otoko koyaku,男子役,Children,おとここやく
+7,Otoko (sewa),男（世話）,Male,おとこ（せわ）
+8,Otoko chū koyaku,男中子役,Children,おとこちゅうこやく
+9,Otoko tsume,男つめ,Male,おとこつめ
+10,Oni,鬼,Special,おに
+11,Oniwaka,鬼若,Male,おにわか
+12,Oniwaka chū koyaku,鬼若中子役,Children,おにわかちゅうこやく
+13,Onoemon,斧右衛門,Male,おのえもん
+14,Ofuku,お福,Female,おふく
+15,Onna koyaku,女子役,Children,おんなこやく
+16,Onna chū koyaku,女中子役,Children,おんなちゅうこやく
+17,Onna tsume,女つめ,Female,おんなつめ
+18,Kagekiyo,景清,Male,かげきよ
+19,Gabu (kasane),累のガブ,Special,かさねのがぶ
+20,Kani,かに,Male,かに
+21,Gabu,ガブ,Special,がぶ
+22,Kabocha,かぼちゃ,Special,かぼちゃ
+23,Kamezasa,亀笹,Male,かめざさ
+24,Karasu tengu,烏天狗,Special,からすてんぐ
+25,Kawatarō,川太郎,Special,かわたろう
+26,Kiichi,鬼一,Male,きいち
+27,Kijo,鬼女,Female,きじょ
+28,Kitsune,狐,Special,きつね
+29,Kintoki,金時,Male,きんとき
+30,Kuchiaki Bunshichi,口あき文七,Male,くちあきぶんしち
+31,Keisei,傾城,Female,けいせい
+32,Kēto,ケート,Special,けーと
+33,Genta,源太,Male,げんた
+34,Genta (jidai),源太（時代）,Male,げんた（じだい）
+35,Kenbishi,検非違使,Male,けんびし
+36,Kōmei,孔明,Male,こうめい
+37,Kodanshichi,小団七,Male,こだんしち
+38,Koneko,子猫,Special,こねこ
+39,Konezumi,子ねずみ,Special,こねずみ
+40,Konoha tengu,木の葉天狗,Special,このはてんぐ
+41,Komusume,小娘,Female,こむすめ
+42,Koyaku,子役,Children,こやく
+43,Sagojō,沙悟浄,Special,さごじょう
+44,Sasuke,佐助,Male,さすけ
+45,Sadanoshin,定之進,Male,さだのしん
+46,Zatō,座頭,Male,ざとう
+47,Saru,猿,Special,さる
+48,Sanmaime,三枚目,Male,さんまいめ
+49,Sanmaime (onna),三枚目（女）,Female,さんまいめ（おんな）
+50,Jiji (sewa),爺（世話）,Male,じじ（せわ）
+51,Jiji tsume,爺つめ,Male,じじつめ
+52,Shitadashi,舌出し,Special,しただし
+53,Shūto,舅,Male,しゅうと
+54,Shūto (sewa),舅（世話）,Male,しゅうと（せわ）
+55,Shūto no gabu,舅のガブ,Male,しゅうとのがぶ
+56,Shutendōji,酒呑童子,Special,しゅてんどうじ
+57,Shōki,鍾馗,Special,しょうき
+58,Shōjō,丞相,Male,しょうじょう
+59,Shōnin,上人,Male,しょうにん
+60,Shiratayū,白太夫,Male,しらたゆう
+62,Suzume,雀,Special,すずめ
+63,Sen-ō no bōrei,先王の亡霊,Male,せんおうのぼうれい
+64,Songokū,孫悟空,Special,そんごくう
+65,Daikon,大根,Special,だいこん
+66,Takeuji,武氏,Male,たけうじ
+67,Tanuki,狸,Special,たぬき
+68,Tamamonomae,玉藻前,Female,たまものまえ
+69,Tameyoshi,為義,Male,ためよし
+70,Darasuke,陀羅助,Male,だらすけ
+71,Darasuke (jidai),陀羅助（時代）,Male,だらすけ（じだい）
+72,Danbatake no hyakushō,段畑の百姓,Special,だんばたけのひゃくしょう
+73,Chū koyaku,中子役,Children,ちゅうこやく
+74,Chohakkai,猪八戒,Special,ちょはっかい
+76,Gabu (tsunonashi),角なしのガブ,Special,つのなしのがぶ
+77,Tsume,つめ,Male,つめ
+78,Tsurifune,釣船,Male,つりふね
+79,Tedai,手代,Male,てだい
+80,Decchi,丁稚,Male,でっち
+81,Toraō,虎王,Male,とらおう
+82,Nashiwari,梨割り,Special,なしわり
+83,Nichiren,日蓮,Male,にちれん
+84,Neko,猫,Special,ねこ
+85,Nezumi,ねずみ,Special,ねずみ
+86,Nemuri no musume,ねむりの娘,Female,ねむりのむすめ
+87,Hagataki,端敵,Male,はがたき
+88,Bakuya,莫耶,Female,ばくや
+89,Hanaugoki,鼻動き,Special,はなうごき
+90,Baba,婆,Female,ばば
+91,Baba (jidai),婆（時代）,Female,ばば（じだい）
+92,Baba (sewa),婆（世話）,Female,ばば（せわ）
+93,Baba tsume,婆つめ,Female,ばばつめ
+94,Hayaku,端役,Female,はやく
+95,Bannai,伴内,Male,ばんない
+96,Hannya,般若,Special,はんにゃ
+97,Hitotsume,一つ目,Special,ひとつめ
+98,Hinin,非人,Male,ひにん
+99,Hyakushō,百姓,Male,ひゃくしょう
+100,Hiyoshimaru (Oniwaka),日吉丸（鬼若）,Male,ひよしまる（おにわか）
+101,Pinkāton,ピンカートン,Special,ぴんかーとん
+102,Fukurokuju,福禄寿,Special,ふくろくじゅ
+103,Fukeoyama,老女形,Female,ふけおやま
+104,Fukehayaku,老端役,Female,ふけはやく
+105,Futaomote,両面,Special,ふたおもて
+106,Bunshichi,文七,Male,ぶんしち
+107,Masamune,正宗,Male,まさむね
+108,Matahei,又平,Male,またへい
+109,Mitsume,三つ目,Special,みつめ
+110,Myōrin,妙林,Female,みょうりん
+111,Musume,娘,Female,むすめ
+112,Yashio,八汐,Female,やしお
+113,Yamachichi,山父,Male,やまちち
+114,Yūgao,夕顔,Female,ゆうがお
+115,Yūsen,祐仙,Male,ゆうせん
+116,Yokanbei,与勘平,Male,よかんべい
+117,Yokanbei (jidai),与勘平（時代）,Male,よかんべい（じだい）
+118,Wakaotoko,若男,Male,わかおとこ
+119,Warubaba,悪婆,Female,わるばば
+120,Warubaba (sewa),悪婆（世話）,Female,わるばば（せわ）
+122,Genta (nemuri tsuki),源太眠りつき,Male,げんた（ねむり）
+124,Shinzō,新造,Female,しんぞう
+125,Hanamuke,はなむけ,Male,はなむけ
+126,Sanmaime (kani),三枚目（かに）,Male,さんまいめ（かに）
+127,Genta (Ugokinashi ),源太（動きなし）,Male,げんた（うごきなし）
+128,Sanmaime (tedai),三枚目（手代）,Male,さんまいめ（てだい）
+129,Mimi ugoki no Kōmei,耳動きの孔明,Male,みみうごきのこうめい
+130,Gabu (tsunodashi),角出しのガブ,Special,つのだしのがぶ
+131,Sanmaime (Yūsen),三枚目（祐仙）,Male,さんまいめ（ゆうせん）
+132,Sanmaime (Bannai),三枚目（伴内）,Male,さんまいめ（ばんない）
+133,Gaijin,外人,Special,がいじん

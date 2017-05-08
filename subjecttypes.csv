@@ -1,0 +1,53 @@
+﻿id,data_id,sequence_number,subject_type_id,description,creator
+1,,201,PJ,Program (Japanese),National Theatre
+2,,202,PE,Program (English),National Theatre
+3,,203,PEJ,Program (English/Japanese),National Theatre
+4,,204,FJ,Flier (Japanese),National Theatre
+5,,205,FE,Flier (English),National Theatre
+6,,206,Y,Yukahon,National Theatre
+7,,207,KJS,Kokuritsu Gekijō jōen shiryōshū,National Theatre
+8,,208,KBJS,Kokuritsu Bunraku Gekijō jōen shiryōshū,National Theatre
+9,,209,KN,Kokuritsu Gekijyō nyūsu [news],National Theatre
+10,,210,SE,Synopsis,National Theatre
+11,,212,TN,Kokuritsu Bunraku Gekijō Tomonokai [newsletter],National Theatre
+12,,211,MG,Mihonkoku Gikyokushū,National Theatre
+13,,108,BN,Notes,Barbara C. Adachi
+14,,301,NA,Newspaper article,Others
+15,,107,BT,Typescript,Barbara C. Adachi
+16,,309,PC,Postcard,Others
+17,,006,CD,CD,Adachi
+18,,009,VC,Videotape,Adachi
+19,,214,AT,Admission ticket,National Theatre
+20,,217,NR,Realia,National Theatre
+21,,101,BJ,Journal article,Barbara C. Adachi
+22,,102,BNA,Newspaper article,Barbara C. Adachi
+23,,103,BI,Interview,Barbara C. Adachi (as an interviewee)
+24,,104,BB,Book,Barbara C. Adachi
+25,,105,BC,Contributed article,Barbara C. Adachi
+26,,215,NPC,Postcard,National Theatre
+27,,312,R,Realia,Others
+28,,303,BE,Book excerpt,Others
+29,,307,TS,Typescript,Others
+30,,106,BM,Magazine article,Barbara C. Adachi
+31,,305,P,Pamphlet,Others
+32,,216,C,Calendar,National Theatre
+33,,310,PS,Poster,Others
+35,,213,NB,Book,National Theatre
+36,,302,B,Book,Others
+37,,308,CP,Correspondence,Others
+38,,306,F,Flier,Others
+39,,218,NP,Pamphlet,National Theatre
+40,,304,MA,Magazine article,Others
+41,,313,PM,Printed materials,Others
+42,,311,FS,Film Still,Others
+43,,010,RC,Record,Others
+44,,007,AC,Audiotape,Adachi
+46,,219,PO,Printout from Bunka dijitaru raiburari (http://www2.ntj.jac.go.jp/dglib/),Japan Arts Council
+47,,001,S,Slide,Adachi and Others
+48,,002,AP,Album page,Adachi
+49,,003,PH,Photograph,Adachi and Others
+50,,004,NG,Negative,Adachi
+51,,005,CT,Color transparency,Others
+52,,008,AR,Analog reel-to-reel audiotape,Adachi
+53,,109,PP,"Notes, photocopies for visual items","
+"

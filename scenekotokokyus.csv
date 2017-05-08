@@ -1,0 +1,184 @@
+﻿id,sceneproduction_id,kotokokyu_id,kotokokyusub_id,kotokokyu_description,sortorder
+1,14,116,0,"",1
+2,41,114,0,Yagumo,1
+3,64,116,0,Koto,1
+4,153,32,0,Koto,1
+5,157,114,0,Sankyoku,1
+6,179,104,0,Sankyoku,1
+7,187,114,0,Koto,1
+8,191,114,0,Koto,1
+9,207,114,0,Kokyu,1
+10,221,114,0,Kokyu,1
+11,224,114,0,Yagumo,1
+12,247,114,0,Koto,1
+13,275,32,0,Kokyu,1
+14,275,105,,Kokyu,2
+15,311,114,0,Sankyoku,1
+16,327,67,0,Sankyoku,1
+17,328,114,0,Koto,1
+18,338,114,0,Koto,1
+19,344,10,0,Koto,1
+20,377,114,0,"Kokyu, Tsure [Assistant Player]",1
+21,388,114,0,Koto,1
+22,389,113,0,Kokyu,1
+23,500,10,0,Kokyu,1
+24,501,69,0,Sankyoku,1
+25,521,69,0,Koto,1
+26,521,41,,Koto,2
+27,530,30,0,Kokyu,1
+28,530,113,,Kokyu,2
+29,550,69,0,Tsure [Assistant Player] Yagumo,1
+30,550,90,,Tsure [Assistant Player] Yagumo,2
+31,568,80,0,Koto,1
+32,579,41,0,Kokyu,1
+33,593,43,0,Kokyu,1
+34,601,41,0,"Kokyu, Tsure [Assistant Player]",1
+35,602,41,0,"Kokyu, Tsure [Assistant Player]",1
+36,632,42,0,Koto,1
+37,648,41,0,Koto,1
+38,648,102,,Koto,2
+39,660,69,0,Koto,1
+40,715,69,0,Sankyoku,1
+41,796,69,0,Sankyoku,1
+42,800,42,0,Koto,1
+43,814,41,0,Koto,1
+44,822,69,0,Koto,1
+45,841,80,0,Kokyu,1
+46,845,61,0,Koto,1
+47,861,80,0,Kokyu,1
+48,910,42,0,Yagumo,1
+49,910,80,,Yagumo,2
+50,928,42,0,Koto,1
+51,932,61,0,Koto,1
+52,936,42,0,Koto,1
+53,948,42,0,Koto,1
+54,955,80,0,Koto,1
+55,989,61,0,Koto,1
+56,1002,41,0,"Koto, Samisen, and Kokyu",1
+57,1039,42,0,Kokyu,1
+58,1065,7,0,Kokyu,1
+59,1065,42,,Koto,2
+60,1083,64,0,Kokyu,1
+61,1099,80,0,Kokyu,1
+62,1099,42,,Kokyu,2
+63,1124,42,0,Koto,1
+64,1124,64,,Koto,2
+65,1129,64,0,Kokyu,1
+66,1130,64,0,Kokyu,1
+67,1137,64,0,Kokyu (Dec 8-14),1
+68,1137,7,,Kokyu (Dec 15-20),2
+69,1173,64,0,Yagumo,1
+70,1178,42,0,Koto,1
+71,1388,42,0,"",1
+72,1392,43,0,Koto,1
+73,1416,43,0,Kokyu,1
+74,1426,43,0,Kokyu,1
+75,1469,64,0,Kokyu,1
+76,1470,7,0,Sankyoku,1
+77,1480,7,0,Sankyoku,1
+78,1485,64,0,Yakumo,1
+79,1485,43,,Yakumo,2
+80,1512,147,0,Koto,1
+81,1517,7,0,Kokyu Tsure [Assistant Player],1
+82,1518,7,0,Kokyu Tsure [Assistant Player],1
+83,1535,43,0,Koto,1
+84,1535,88,,Kokyu,2
+85,1563,7,0,Koto,1
+86,1574,147,0,Kokyu,1
+87,1583,147,0,"",1
+88,1591,64,0,Koto,1
+89,1592,147,0,Koto,1
+90,1603,7,0,Koto,1
+91,1636,147,0,Kokyu,1
+92,1665,43,0,Koto,1
+93,1674,64,0,"Kokyu, Tsure [Assistant Player]",1
+94,1681,43,0,Koto,1
+95,1681,147,,Koto,2
+96,1683,43,0,Koto,1
+97,1689,43,0,Koto,1
+98,1689,147,,Koto,2
+99,1705,43,0,Koto,1
+100,1705,147,,kokyu,2
+101,1709,41,0,Yagumo Tsure [Assistant Player],1
+102,1709,42,,Yagumo Tsure [Assistant Player],2
+103,1723,41,0,"Kokyu, Tsure [Assistant Player]",1
+104,1741,43,0,Koto,1
+105,1744,41,0,Yagumo,1
+106,1744,43,,Yagumo,2
+107,1751,43,0,Koto,1
+108,1799,43,0,"",1
+109,1834,151,0,Takane,1
+110,1844,151,0,Koto,1
+111,1847,7,0,Koto,1
+112,1887,43,0,Koto,1
+113,1887,79,,Kokyu,2
+114,1922,151,0,Koto,1
+115,1923,64,0,Koto,1
+116,1954,154,0,Koto,1
+117,1962,43,0,Koto,1
+118,1962,79,,Kokyu,2
+119,1968,64,0,Kokyu,1
+120,1980,154,0,Koto,1
+121,1981,154,0,Koto,1
+122,2043,151,0,Koto,1
+123,2043,79,,Koto,2
+124,2046,43,0,Kokyu Dec 5-11,1
+125,2046,64,,Kokyu Dec 12-17,2
+126,2051,43,0,Kokyu,1
+127,2062,64,0,Kokyu,1
+128,2068,97,0,Tsure [Assistant Player] and Yagumo,1
+129,2068,43,,Tsure [Assistant Player] and Yagumo,2
+130,2083,79,0,Koto,1
+131,2090,97,0,"Kokyu, Tsure [Assistant Player]",1
+132,2091,79,0,yagumo,1
+133,2091,154,,yagumo,2
+134,2107,43,0,Koto,1
+135,2117,97,0,Kokyu,1
+136,2118,97,0,Kokyu,1
+137,2122,43,0,Koto,1
+138,2192,79,0,Koto,1
+139,2225,7,0,Koto,1
+140,2242,97,0,Koto,1
+141,2244,151,0,Koto,1
+142,2252,97,0,Koto,1
+143,2252,154,,Koto,2
+144,2269,79,0,Kokyu,1
+145,2318,154,0,Koto,1
+146,2320,7,0,Koto,1
+147,2336,151,0,Koto,1
+148,2337,151,0,Koto,1
+149,2347,151,0,Kokyu,1
+150,2348,97,0,Kokyu,1
+151,2349,97,0,Kokyu,1
+152,2353,162,0,Kokyu,1
+153,2403,151,0,"Kokyu, Tsure [Assistant Player]",1
+154,2429,162,0,Kokyu,1
+155,2439,97,0,"Tsure [Assistant Player], Yagumo",1
+156,2439,162,,"Tsure [Assistant Player], Yagumo",2
+157,2444,97,0,Koto,1
+158,2447,97,0,Kokyu,1
+159,2448,154,0,Koto,1
+160,2460,97,0,Kokyu,1
+161,2466,79,0,Sankyoku,1
+162,2470,162,0,Koto,1
+163,2474,97,0,Koto,1
+164,2487,162,0,Kokyu,1
+165,2507,162,0,Kokyu,1
+166,2323,151,0,Koto,1
+167,2323,154,,Kokyu,2
+168,1265,81,0,Koto,1
+169,1269,41,0,Tsure [Assistant Player] Yagumo,1
+170,1269,42,,Tsure [Assistant Player] Yagumo,2
+171,1277,64,0,Koto,1
+172,1296,64,0,Koto,1
+173,1297,64,0,Koto,1
+174,1308,61,0,Koto,1
+175,1317,7,0,Koto,1
+176,1317,64,,Koto,2
+177,1330,43,0,Koto,1
+178,2588,32,0,[sankyoku],1
+179,2597,97,0,[koto],1
+180,2618,172,0,[kokyu],1
+181,2619,172,0,[kokyu],1
+182,2641,114,0,[sankyoku],1
+183,2659,7,64,"",1
