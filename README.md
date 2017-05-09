@@ -4,3 +4,4 @@ CHANGES
 * remove redundant URL and creator names, unlinked rows from visuals.csv
 * remove unused paperaudios and relations to paperaudios
 * rename playproductions to performances and remove Windows line endings
+* remove all the Windows line endings
