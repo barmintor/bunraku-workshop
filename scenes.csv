@@ -1,4 +1,4 @@
-﻿id,data_id,scene_code,play_sequence,scene_japanese,scene_japanese_sort,scene_english,scene_kanji,play_id,authority_control,sortable_field_japanese
+id,data_id,scene_code,play_sequence,scene_japanese,scene_japanese_sort,scene_english,scene_kanji,play_id,authority_control,sortable_field_japanese
 1,,Akai-01,001,(1),[1] [Akai],Scene One,（一）,162,August 1989 Program,
 2,,Akai-02,002,(2),[2] [Akai],Scene Two,（二）,162,August 1989 Program,
 3,,Akai-03,003,(3),[3]  [Akai],Scene Three,（三） ,162,August 1989 Program,

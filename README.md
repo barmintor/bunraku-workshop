@@ -6,3 +6,4 @@ CHANGES
 * rename playproductions to performances and remove Windows line endings
 * remove all the Windows line endings
 * remove empty sceneproduction_visuals csv
+* remove BOM from csv

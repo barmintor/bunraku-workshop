@@ -1,4 +1,4 @@
-﻿id,data_id,colser_id,series_number,sequence_number,item_id,subjecttype_id,slidepage_folder_no,container_type,container_number,folder_title,notes_on_item,creator_id,online_image,objid,dlo
+id,data_id,colser_id,series_number,sequence_number,item_id,subjecttype_id,slidepage_folder_no,container_type,container_number,folder_title,notes_on_item,creator_id,online_image,objid,dlo
 8281,,2,2,0001,0001,47,452,Slide Binder,46,"",2,124,1,ldpd_bun_slide_452_2_0001_0001,true
 8282,,2,2,0002,0002,47,452,Slide Binder,46,"",6,124,1,ldpd_bun_slide_452_2_0002_0002,true
 8283,,2,2,0003,0003,47,452,Slide Binder,46,"",7,124,1,ldpd_bun_slide_452_2_0003_0003,true

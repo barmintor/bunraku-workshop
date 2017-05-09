@@ -1,4 +1,4 @@
-﻿id,data_id,sequence_number,subject_type_id,description,creator
+id,data_id,sequence_number,subject_type_id,description,creator
 1,,201,PJ,Program (Japanese),National Theatre
 2,,202,PE,Program (English),National Theatre
 3,,203,PEJ,Program (English/Japanese),National Theatre
